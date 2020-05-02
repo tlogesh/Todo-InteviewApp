@@ -11,6 +11,5 @@
     "director": "^1.2.8",
     "react": "^0.13.3"
   },
-  "author": "Logesh Thulasiraman",
-  "license": "ISC"
+  "author": "Logesh Thulasiraman"
 }
