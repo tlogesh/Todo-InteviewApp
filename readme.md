@@ -1,6 +1,6 @@
 ##H2 How to run 
 - run `npm install`
-- run `npm run-dev` 
+- run `npm run run-dev` 
 
 ##H2 debug tips
 - make sure the port 3000 is free, or else you can edit the port number in the index.js under config block at the top.
