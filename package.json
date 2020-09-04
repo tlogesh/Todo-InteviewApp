@@ -9,7 +9,7 @@
   "dependencies": {
     "classnames": "^2.2.6",
     "director": "^1.2.8",
-    "react": "^0.13.3"
+    "react": "^0.14.0"
   },
   "author": "Logesh Thulasiraman"
 }
